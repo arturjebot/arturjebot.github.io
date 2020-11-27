@@ -1,4 +1,4 @@
 a, a:visited, a:active, a:link {text-decoration: none; color: #fff; text-align: center; font-size: xx-large;}
-body, html {height: 100%; width: 100%; background: #000; margin: 0; padding: 0;}
+body, html {height: 100%; width: 100%; background: #222831; margin: 0; padding: 0;}
 .container {align-items: center; display: flex; justify-content: center; height: 100%;width: 100%;}
 img {width: 500px; height: 500px;}
