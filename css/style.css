@@ -46,6 +46,11 @@ img {
     .card-image {
         margin-top: 50px;
     }
+
+    img {
+        width: 400px;
+        height: 400px;
+    }
 }
 
 /*
